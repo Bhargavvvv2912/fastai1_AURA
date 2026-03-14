@@ -1,3 +1,5 @@
-# "." uses requirements defined inside setup.py
-.
-scikit-image
+# Satisfy setup.py requirements
+-e .
+scikit-image==0.18.3
+torch==1.13.1
+torchvision==0.14.1
