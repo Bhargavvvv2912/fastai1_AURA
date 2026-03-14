@@ -1,4 +1,5 @@
-# Satisfy setup.py requirements
+setuptools
+wheel
 -e .
 scikit-image==0.18.3
 torch==1.13.1
