@@ -1,6 +1,7 @@
 setuptools
 wheel
 ipython
+numpy<2.0.0
 -e .
 scikit-image==0.18.3
 torch==1.13.1
